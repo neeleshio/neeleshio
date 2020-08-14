@@ -13,9 +13,8 @@ Don't forget to checkout my Repositories, If your are a beginner then you must, 
 #### Some of my good repos :
  
 <ol>
-  <li>[RestAPI-CRUD-Friendly](https://github.com/neeleshio/RestAPI-CRUD-Friendly)</li>
-  <li>[Rest-API-Testify](https://github.com/neeleshio/Rest-API-Testify)</li>
-  <li>[Calculator](https://github.com/neeleshio/Calculator)</li>
+  <li><a href="https://github.com/neeleshio/RestAPI-CRUD-Friendly">RestAPI-CRUD-Friendly</a></li>
+  <li><a href="https://github.com/neeleshio/Rest-API-Testify">Rest-API-Testify</li>
   ....More coming soon
 </ol>
 
