@@ -14,7 +14,7 @@ Don't forget to checkout my Repositories, If your are a beginner then you must, 
  
 <ol>
   <li><a href="https://github.com/neeleshio/RestAPI-CRUD-Friendly">RestAPI-CRUD-Friendly</a></li>
-  <li><a href="https://github.com/neeleshio/Rest-API-Testify">Rest-API-Testify</li>
+  <li><a href="https://github.com/neeleshio/Rest-API-Testify">Rest-API-Testify</a></li>
   ....More coming soon
 </ol>
 
