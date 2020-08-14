@@ -6,9 +6,18 @@
   <li>My core language is JavaScript</li>
 </ul>
   
- <hr/>
+<hr/>
  
- Don't forget to checkout my Repositories, If your are a beginner then you must check or If you are a expirienced then please contribute to my Repos.
+Don't forget to checkout my Repositories, If your are a beginner then you must, If you are an expirienced one then please do contribute.
  
- <hr/>
+#### Some of my good repos :
+ 
+<ol>
+  <li>[RestAPI-CRUD-Friendly](https://github.com/neeleshio/RestAPI-CRUD-Friendly)</li>
+  <li>[Rest-API-Testify](https://github.com/neeleshio/Rest-API-Testify)</li>
+  <li>[Calculator](https://github.com/neeleshio/Calculator)</li>
+  ....More coming soon
+</ol>
+
+<hr/>
 
