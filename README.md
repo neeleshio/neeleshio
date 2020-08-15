@@ -10,13 +10,16 @@
 
 **Languages and Tools:**  
 
-<code><a><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://www.javascript.com/"><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="20" src="https://www.themightycribb.com/wp-content/uploads/2020/07/react-logo.png"></a></code>
 <code><a href=""><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 <code><a href=""><img height="20" src="https://restfulapi.net/wp-content/uploads/rest.png"></a></code>
 <code><a href="https://expressjs.com/"><img height="20" src="https://expressjs.com/images/express-facebook-share.png"></a></code>
 <code><a href="https://sass-lang.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"></a></code>
 <code><a href="https://reactjs.org/docs/jsx-in-depth.html"><img height="20" src="https://media.glassdoor.com/sqll/3149443/jsx-squarelogo-1583785604190.png"></a></code>
+<code><a href="https://www.python.org/psf-landing/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></a></code>
+<code><a href=""><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></a></code>
+<code><a href="https://ant.design/"><img height="20" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></a></code>
 
 <hr/>
  
