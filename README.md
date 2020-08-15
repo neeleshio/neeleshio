@@ -11,7 +11,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" href="https://reactjs.org/" src="https://www.themightycribb.com/wp-content/uploads/2020/07/react-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
