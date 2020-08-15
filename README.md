@@ -20,6 +20,7 @@
 <code><a href="https://www.python.org/psf-landing/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></a></code>
 <code><a href=""><img height="20" src="https://hackr.io/tutorials/learn-html-5/logo/logo-html-5?ver=1555389548"></a></code>
 <code><a href="https://ant.design/"><img height="20" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"></a></code>
+<code><a href="https://aws.amazon.com/"><img height="20" src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png"></a></code>
 
 <hr/>
  
