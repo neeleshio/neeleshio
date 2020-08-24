@@ -23,18 +23,6 @@
 <code><a href="https://aws.amazon.com/"><img height="20" src="https://www.drupal.org/files/project-images/aws-logo.png"></a></code>
 
 <hr/>
- 
-Don't forget to checkout my Repositories, If your are a beginner then you must, If you are an expirienced one then please do contribute.
- 
-#### Some of my good repos :
- 
-<ol>
-  <li><a href="https://github.com/neeleshio/RestAPI-CRUD-Friendly">RestAPI-CRUD-Friendly</a></li>
-  <li><a href="https://github.com/neeleshio/RestAPI-Testify">RestAPI-Testify</a></li>
-  ....More coming soon
-</ol>
-
-<hr/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge)
 
