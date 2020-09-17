@@ -12,6 +12,7 @@
 
 <code><a href="https://www.javascript.com/"><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://reactjs.org/"><img height="20" src="https://www.themightycribb.com/wp-content/uploads/2020/07/react-logo.png"></a></code>
+<code><a href="https://redux.js.org/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></a></code>
 <code><a href=""><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 <code><a href=""><img height="20" src="https://restfulapi.net/wp-content/uploads/rest.png"></a></code>
 <code><a href="https://expressjs.com/"><img height="20" src="https://expressjs.com/images/express-facebook-share.png"></a></code>
