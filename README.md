@@ -4,6 +4,7 @@
   <li>I am a Full-Stack Developer & Engineer</li>
   <li>I mostly work with Nodejs & Reactjs</li>
   <li>My core language is JavaScript</li>
+  <li>I code DSA in JavaScript</li>
 </ul>
   
 <hr/>
