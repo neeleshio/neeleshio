@@ -1,7 +1,11 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/neeleshio/Corona-Tracker/master/coronatracker(2).png" alt="Markdownify" width="600">
+</h1>
+
 ### Hi, I'am Neelesh 👋
 
 <ul>
-  <li>I am a Full-Stack Developer & Engineer</li>
+  <li>I am a Full-Stack Javscript Developer & Engineer</li>
   <li>I mostly work with Nodejs & Reactjs</li>
   <li>My core language is JavaScript</li>
   <li>I code DSA with JavaScript</li>
