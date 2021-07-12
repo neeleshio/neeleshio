@@ -5,8 +5,8 @@
 ### Hi, I'am Neelesh 👋
 
 <ul>
-  <li>I am a Full-Stack Javascript Developer & Engineer</li>
-  <li>I mostly work with Nodejs & Reactjs</li>
+  <li>I am a Frontend Engineer</li>
+  <li>I mostly work with Reactjs</li>
   <li>My core language is JavaScript</li>
   <li>I code DSA with JavaScript</li>
 </ul>
