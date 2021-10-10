@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="600">
 </h1>
 
-### Hi there, I'am [[Neelesh]](http://neeleshio.dev) 👋
+### Hi there, I'am [Neelesh](http://neeleshio.dev) 👋
 
 <ul>
   <li>I am a Frontend Development Engineer</li>
