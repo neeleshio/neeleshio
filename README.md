@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="600">
 </h1>
 
-### Hi there, I'm [Neelesh](http://neeleshio.dev) 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
+### Hi there, I'm [Neelesh](http://neeleshio.dev) 👋 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
 
 <ul>
   <li>I am a Frontend Development Engineer</li>
