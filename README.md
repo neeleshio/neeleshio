@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="600">
+  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="500">
 </h1>
 
-### Hi there, I'm [Neelesh](http://neeleshio.dev) 👋 
+### Hi there, I'm [Neelesh Shetty](http://neeleshio.dev) 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
 
