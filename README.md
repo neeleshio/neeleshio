@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="400">
 </h3>
 
-<h1>Hi there, I'm Neelesh <img src="https://media.giphy.com/media/3ohc1ehvhLBYdzPVHW/giphy.gif" width="60px"> </h1>
+<h2> Hi there, I'm Neelesh <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="40px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
 
