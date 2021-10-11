@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/header.png" height="200">
+  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/helloworld.gif" height="100">
 </h3>
 
 <h2> Hi there, I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
