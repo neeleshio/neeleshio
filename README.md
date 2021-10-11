@@ -33,6 +33,11 @@
 ![Material UI](https://img.shields.io/badge/materialUI-13B6FF.svg?style=flat&logo=material-ui&logoColor=white)
 
 <hr/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshio&theme=blood&include_all_commits=true&count_private=true">
+  <div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge">
+  </div>
+</div>
+  
 
