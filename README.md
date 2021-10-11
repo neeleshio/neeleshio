@@ -2,19 +2,28 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/helloworld.gif" height="100">
 </h3>
 
+<div align="center">
 <h2> I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
-
+</div>
+  
 <ul>
-  <li>I am a Frontend Development Engineer</li>
-  <li>I mostly work with Reactjs</li>
-  <li>My core language is JavaScript</li>
-  <li>I code DSA with JavaScript</li>
+  <li>🚀 <b>I am a Frontend Development Engineer, currently working at PiChain</b></li>
+  <br/>
+  <li>👓 <b>Managing overall client-side development & maintainence of company's 2 main products eSign & eStamp</b></li>
+  <br/>
+  <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, Redux, Jest, RTL etc..</b></li>
+  <br/>
+  <li>😎 <b>Other than software development, I love stock market</b></li>
+  <br/>
+  <li>🥳 <b>I'm so lucky that coding is piece of cake to me</b></li>
 </ul>
   
 <hr/>
 
+<div align="center">
+  
 **Languages and Tools:**  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23404d59.svg?style=flat&logo=javascript&logoColor=F7F700)
@@ -32,7 +41,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialUI-13B6FF.svg?style=flat&logo=material-ui&logoColor=white)
 
+  </div>
 <hr/>
+  
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshio&theme=blood&include_all_commits=true&count_private=true">
   <div>
