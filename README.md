@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="200">
 </h3>
 
 <h2> Hi there, I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
