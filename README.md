@@ -1,8 +1,8 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/neelesh(1).png" alt="Markdownify" width="400">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200">
 </h3>
 
-<h2> Hi there, I'm Neelesh <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="40px"></h2>
+<h2> Hi there, I'm Neelesh </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
 
