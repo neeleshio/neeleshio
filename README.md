@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/helloworld.gif" height="100">
 </h3>
 
-<h2> Hi there, I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
+<h2> I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-neeleshio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeleshio)](https://www.linkedin.com/in/neeleshio) [![Gmail Badge](https://img.shields.io/badge/-neeleshiodev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:neeleshiodev@gmail.com)](mailto:neeleshiodev@gmail.com)
 
