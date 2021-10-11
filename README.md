@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/helloworld.gif" height="100">
 </h3>
 
+<br/>
+
 <div align="center">
 <h2> I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
 
@@ -41,13 +43,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialUI-13B6FF.svg?style=flat&logo=material-ui&logoColor=white)
 
-  </div>
+</div>
+
 <hr/>
   
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeleshio&theme=blood&include_all_commits=true&count_private=true">
-  <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge">
+   <div>
+   <br/>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=neeleshio.visitor-badge">
   </div>
 </div>
   
