@@ -9,7 +9,7 @@
 </div>
   
 <ul>
-  <li>🚀 <b>I am a Frontend Development Engineer, currently working at PiChain.</b></li>
+  <li>🚀 <b>I am a Frontend Development Engineer, currently working at <a href="https://www.pichainlabs.com/" target="_blank">PiChain</a>.</b></li>
   <br/>
   <li>👓 <b>Managing overall client-side development & maintainence of company's 2 main products.</b></li>
   <br/>
