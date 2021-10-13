@@ -9,15 +9,15 @@
 </div>
   
 <ul>
-  <li>🚀 <b>I am a Frontend Development Engineer, currently working at PiChain</b></li>
+  <li>🚀 <b>I am a Frontend Development Engineer, currently working at PiChain.</b></li>
   <br/>
-  <li>👓 <b>Managing overall client-side development & maintainence of company's 2 main products eSign & eStamp</b></li>
+  <li>👓 <b>Managing overall client-side development & maintainence of company's 2 main products.</b></li>
   <br/>
   <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, Redux, Jest, RTL etc..</b></li>
   <br/>
-  <li>😎 <b>Other than software development, I love stock market</b></li>
+  <li>😎 <b>Other than software development, I love stock market.</b></li>
   <br/>
-  <li>🥳 <b>I'm so lucky that coding is piece of cake to me</b></li>
+  <li>🥳 <b>I'm so lucky that coding is piece of cake to me.</b></li>
 </ul>
   
 <hr/>
