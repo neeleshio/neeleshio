@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/neeleshio/neeleshio/master/helloworld.gif" height="100">
 </h3>
 
-<br/>
-
 <div align="center">
 <h2> I'm <a href="https://linkedin.com/in/neeleshio">Neelesh Shetty</a> 👋</h2>
 
