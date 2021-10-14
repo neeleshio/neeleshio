@@ -15,9 +15,9 @@
   <br/>
   <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, Redux, Jest, RTL etc..</b></li>
   <br/>
-  <li>😎 <b>Other than software development, I love stock market.</b></li>
+  <li>🧐 <b>Other than software development, I love stock market.</b></li>
   <br/>
-  <li>🥳 <b>I'm so lucky that coding is piece of cake to me.</b></li>
+  <li>😎 <b>I'm so lucky that coding is piece of cake to me.</b></li>
 </ul>
   
 <hr/>
@@ -40,7 +40,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialUI-13B6FF.svg?style=flat&logo=material-ui&logoColor=white)
+& learning more....
 
+<br/>
+
+🎉<b>The learning never stops in software engineering</b>🎉
 </div>
 
 <hr/>
