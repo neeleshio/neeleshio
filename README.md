@@ -44,7 +44,7 @@
 
 <br/>
 
-🎉<b>The learning never stops in software engineering</b>🎉
+🎉<b>THE LEARNING NEVER STOPS IN SOFTWARE ENGINEERING</b>🎉
 </div>
 
 <hr/>
