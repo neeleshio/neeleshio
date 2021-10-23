@@ -15,7 +15,7 @@
   <br/>
   <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, Redux, Jest, RTL etc..</b></li>
   <br/>
-  <li>🧐 <b>Other than software development, I love stock market.</b></li>
+  <li>🧐 <b>Other than software development, I'm an inverstor & stock market enthusiast.</b></li>
   <br/>
   <li>😎 <b>I'm so lucky that coding is piece of cake to me.</b></li>
 </ul>
