@@ -17,7 +17,7 @@
   <br/>
   <li>🧐 <b>Other than software development, I'm an inverstor & stock market enthusiast.</b></li>
   <br/>
-  <li>😎 <b>I'm so lucky that coding is piece of cake to me.</b></li>
+  <li>😎 <b>So lucky that coding is my passion.</b></li>
 </ul>
   
 <hr/>
