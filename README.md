@@ -9,7 +9,7 @@
 </div>
   
 <ul>
-  <li>🚀 <b>I am a Frontend Development Engineer, currently working at <a href="https://www.flipkartcareers.com/#!/aboutus" target="_blank">Flipkart</a>.</b></li>
+  <li>🚀 <b>I am a UI Engineer, currently working at <a href="https://www.flipkartcareers.com/#!/aboutus" target="_blank">Flipkart</a>.</b></li>
   <br/>
   <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, NextJS, Redux, Cypress, RTL etc..</b></li>
   <br/>
