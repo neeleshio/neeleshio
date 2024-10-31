@@ -9,7 +9,7 @@
 </div>
   
 <ul>
-  <li>🚀 <b>I am a Software UI Engineer, currently working at <a href="https://www.xactlycorp.com/company" target="_blank">Xactly Corp.</a>.</b></li>
+  <li>🚀 <b>I am a Software UI Engineer, currently working at <a href="https://www.xactlycorp.com/company" target="_blank">Xactly Corp</a>.</b></li>
   <br/>
   <li>👨‍💻 <b>The stack I mostly work with Javascript/Typescript, ReactJS, NextJS, Redux, Cypress, RTL etc..</b></li>
   <br/>
